@@ -2,8 +2,7 @@
 
 ### 📌 Overview
 ---
-
-#### This guide explains how to:
+ #### This guide explains how to:
 - Create an Amazon S3 bucket
 - Configure S3 Replication Rules
 - Use S3 Batch Operations
